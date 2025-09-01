@@ -1,13 +1,13 @@
-package com.moreira.trabalhorestfull;
+package com.moreira.trabalhorestful;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TrabalhorestfullApplication {
+public class TrabalhorestfulApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TrabalhorestfullApplication.class, args);
+		SpringApplication.run(TrabalhorestfulApplication.class, args);
 	}
 
 }

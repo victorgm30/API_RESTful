@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.moreira</groupId>
-	<artifactId>trabalhorestfull</artifactId>
+	<artifactId>trabalhorestful</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>trabalhorestfull</name>
+	<name>trabalhorestful</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>

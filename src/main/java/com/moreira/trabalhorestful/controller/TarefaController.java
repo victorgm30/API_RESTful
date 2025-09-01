@@ -1,10 +1,11 @@
-package com.moreira.trabalhorestfull.controller;
+package com.moreira.trabalhorestful.controller;
 
-import com.moreira.trabalhorestfull.model.Tarefa;
-import com.moreira.trabalhorestfull.repository.TarefaRepository;
 import jakarta.validation.Valid;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
+
+import com.moreira.trabalhorestful.model.Tarefa;
+import com.moreira.trabalhorestful.repository.TarefaRepository;
 
 import java.util.List;
 

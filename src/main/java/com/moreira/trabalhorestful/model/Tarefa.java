@@ -1,4 +1,4 @@
-package com.moreira.trabalhorestfull.model;
+package com.moreira.trabalhorestful.model;
 
 import java.util.Objects;
 import java.time.LocalDate;
